@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
   },
   linkButton: {
     backgroundColor: 'transparent',
-    borderRadius: 10,
+    borderRadius: 11,
   },
   linkText: {
     color: theme.colors.primary,
